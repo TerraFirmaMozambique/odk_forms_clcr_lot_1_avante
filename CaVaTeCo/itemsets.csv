@@ -6,10 +6,7 @@ activities,land_plans,Plano de Uso de Terra,,,,fixed
 activities,other,Outras,,,,fixed
 activities,register_parcels,Registo de parcelas,,,,fixed
 activities,register_people,Registo de pessoas,,,,fixed
-ages,adult,Entre 35 - 60 anos,,,,fixed
-ages,elder,60+ anos,,,,fixed
 ages,minor,Menos de 18 anos,,,,fixed
-ages,youth,Entre 18 - 35 anos,,,,fixed
 civil,de_facto_union,União de Facto                            ,,,,fixed
 civil,divorced,Divorciado (a)                                              ,,,,fixed
 civil,married,Casado (a)                     ,,,,fixed
@@ -328,6 +325,13 @@ points,school,Escola,,,,fixed
 points,shop,Loja,,,,fixed
 points,state_reserve,Reserva do Estado,,,,fixed
 points,zone,Zona de interesse para fins de mapeamento,,,,fixed
+points,estuary,Estuário/ zona de reprodução das espécies marinhas,,,,fixed
+points,fish_area,Zona de pesca,,,,fixed
+points,salt_pans,Zona de salinas,,,,fixed
+points,degraded_mangrove,Zona de degradação acentuada do mangal,,,,fixed
+points,new_mangrove,Zona com novo plantio do mangal,,,,fixed
+points,adult_mangrove,Floresta do mangal jovem/adulta,,,,fixed
+points,mangrove,Mangal,,,,fixed
 posts,PA010101,Municipio de Lichinga,,D0101,,
 posts,PA010201,Cuamba,,D0102,,
 posts,PA010202,Etatara,,D0102,,
@@ -857,10 +861,10 @@ provinces,P08,Inhambane,,,,
 provinces,P09,Gaza,,,,
 provinces,P10,Maputo,,,,
 provinces,P11,Maputo Cidade,,,,
-municipalities,quelimane,Quelimane,P04,D0422,,
-municipalities,mocuba,Mocuba,P04,D0411,,
-municipalities,nhamatanda,Nhamatanda,P07,D0713,,
-municipalities,gondola,Gondola,P06,D0603,,
+municipalities,quelimane,Quelimane,P04,,,
+municipalities,mocuba,Mocuba,P04,,,
+municipalities,nhamatanda,Nhamatanda,P07,,,
+municipalities,gondola,Gondola,P06,,,
 rep_relations,administrator,Administrador,,,,fixed
 rep_relations,administrator_designate,Administrador delegado,,,,fixed
 rep_relations,brother_in_law,Cunhado(a),,,,fixed
@@ -1089,3 +1093,6 @@ disasters,erosion,Erosão,,,,fixed
 disasters,other,Outra,,,,fixed
 meetings,meet_municipality,Encontro com Município,,,,fixed
 institutions_meet,municipio,Município,,,,fixed
+ages,adult,Entre 35 - 60 anos,,,,fixed
+ages,elder,60+ anos,,,,fixed
+ages,youth,Entre 18 - 35 anos,,,,fixed
